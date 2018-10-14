@@ -1,0 +1,28 @@
+C:\Users\pierr\Documents\Visual Studio 2012\huiswerk en take\WindowsApplication1 SemesterTaak movie\WindowsApplication1 SemesterTaak movie\bin\Debug\WindowsApplication1 SemesterTaak movie.exe.config
+C:\Users\pierr\Documents\Visual Studio 2012\huiswerk en take\WindowsApplication1 SemesterTaak movie\WindowsApplication1 SemesterTaak movie\bin\Debug\WindowsApplication1 SemesterTaak movie.exe
+C:\Users\pierr\Documents\Visual Studio 2012\huiswerk en take\WindowsApplication1 SemesterTaak movie\WindowsApplication1 SemesterTaak movie\bin\Debug\WindowsApplication1 SemesterTaak movie.pdb
+C:\Users\pierr\Documents\Visual Studio 2012\huiswerk en take\WindowsApplication1 SemesterTaak movie\WindowsApplication1 SemesterTaak movie\bin\Debug\WindowsApplication1 SemesterTaak movie.xml
+C:\Users\pierr\Documents\Visual Studio 2012\huiswerk en take\WindowsApplication1 SemesterTaak movie\WindowsApplication1 SemesterTaak movie\obj\Debug\WindowsApplication1_SemesterTaak_movie.Form1.resources
+C:\Users\pierr\Documents\Visual Studio 2012\huiswerk en take\WindowsApplication1 SemesterTaak movie\WindowsApplication1 SemesterTaak movie\obj\Debug\WindowsApplication1_SemesterTaak_movie.Resources.resources
+C:\Users\pierr\Documents\Visual Studio 2012\huiswerk en take\WindowsApplication1 SemesterTaak movie\WindowsApplication1 SemesterTaak movie\obj\Debug\WindowsApplication1 SemesterTaak movie.vbproj.GenerateResource.Cache
+C:\Users\pierr\Documents\Visual Studio 2012\huiswerk en take\WindowsApplication1 SemesterTaak movie\WindowsApplication1 SemesterTaak movie\obj\Debug\WindowsApplication1 SemesterTaak movie.exe
+C:\Users\pierr\Documents\Visual Studio 2012\huiswerk en take\WindowsApplication1 SemesterTaak movie\WindowsApplication1 SemesterTaak movie\obj\Debug\WindowsApplication1 SemesterTaak movie.xml
+C:\Users\pierr\Documents\Visual Studio 2012\huiswerk en take\WindowsApplication1 SemesterTaak movie\WindowsApplication1 SemesterTaak movie\obj\Debug\WindowsApplication1 SemesterTaak movie.pdb
+C:\Users\pierr\Documents\Visual Studio 2012\huiswerk en take\WindowsApplication1 SemesterTaak movie\WindowsApplication1 SemesterTaak movie\obj\Debug\WindowsApplication1_SemesterTaak_movie.CreateAccount.resources
+C:\Users\pierr\Documents\Visual Studio 2012\huiswerk en take\WindowsApplication1 SemesterTaak movie\WindowsApplication1 SemesterTaak movie\obj\Debug\WindowsApplication1_SemesterTaak_movie.LogIN.resources
+C:\Users\pierr\Documents\Visual Studio 2012\huiswerk en take\WindowsApplication1 SemesterTaak movie\WindowsApplication1 SemesterTaak movie\obj\Debug\WindowsApplication1_SemesterTaak_movie.NowShowing.resources
+C:\Users\pierr\Documents\Visual Studio 2012\huiswerk en take\WindowsApplication1 SemesterTaak movie\WindowsApplication1 SemesterTaak movie\obj\Debug\WindowsApplication1_SemesterTaak_movie.ViewAccount.resources
+C:\Users\hp\Desktop\WindowsApplication1 SemesterTaak movie\WindowsApplication1 SemesterTaak movie\bin\Debug\WindowsApplication1 SemesterTaak movie.exe.config
+C:\Users\hp\Desktop\WindowsApplication1 SemesterTaak movie\WindowsApplication1 SemesterTaak movie\obj\Debug\WindowsApplication1 SemesterTaak movie.exe
+C:\Users\hp\Desktop\WindowsApplication1 SemesterTaak movie\WindowsApplication1 SemesterTaak movie\obj\Debug\WindowsApplication1 SemesterTaak movie.xml
+C:\Users\hp\Desktop\WindowsApplication1 SemesterTaak movie\WindowsApplication1 SemesterTaak movie\obj\Debug\WindowsApplication1 SemesterTaak movie.pdb
+C:\Users\hp\Desktop\WindowsApplication1 SemesterTaak movie\WindowsApplication1 SemesterTaak movie\bin\Debug\WindowsApplication1 SemesterTaak movie.exe
+C:\Users\hp\Desktop\WindowsApplication1 SemesterTaak movie\WindowsApplication1 SemesterTaak movie\bin\Debug\WindowsApplication1 SemesterTaak movie.pdb
+C:\Users\hp\Desktop\WindowsApplication1 SemesterTaak movie\WindowsApplication1 SemesterTaak movie\bin\Debug\WindowsApplication1 SemesterTaak movie.xml
+C:\Users\hp\Desktop\WindowsApplication1 SemesterTaak movie\WindowsApplication1 SemesterTaak movie\obj\Debug\WindowsApplication1_SemesterTaak_movie.CreateAccount.resources
+C:\Users\hp\Desktop\WindowsApplication1 SemesterTaak movie\WindowsApplication1 SemesterTaak movie\obj\Debug\WindowsApplication1_SemesterTaak_movie.Form1.resources
+C:\Users\hp\Desktop\WindowsApplication1 SemesterTaak movie\WindowsApplication1 SemesterTaak movie\obj\Debug\WindowsApplication1_SemesterTaak_movie.LogIN.resources
+C:\Users\hp\Desktop\WindowsApplication1 SemesterTaak movie\WindowsApplication1 SemesterTaak movie\obj\Debug\WindowsApplication1_SemesterTaak_movie.Resources.resources
+C:\Users\hp\Desktop\WindowsApplication1 SemesterTaak movie\WindowsApplication1 SemesterTaak movie\obj\Debug\WindowsApplication1_SemesterTaak_movie.NowShowing.resources
+C:\Users\hp\Desktop\WindowsApplication1 SemesterTaak movie\WindowsApplication1 SemesterTaak movie\obj\Debug\WindowsApplication1_SemesterTaak_movie.ViewAccount.resources
+C:\Users\hp\Desktop\WindowsApplication1 SemesterTaak movie\WindowsApplication1 SemesterTaak movie\obj\Debug\WindowsApplication1 SemesterTaak movie.vbproj.GenerateResource.Cache
